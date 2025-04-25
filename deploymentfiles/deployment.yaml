@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: vineethsankre/cicd_project/batch15d:9
+          image: vineethsankre/cicd_project:9
           ports:
             - containerPort: 8080
       
